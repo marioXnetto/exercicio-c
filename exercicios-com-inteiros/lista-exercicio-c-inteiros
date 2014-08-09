@@ -1,8 +1,8 @@
 1.  Dada uma seqüência de números inteiros não-nulos, seguida por 0, imprimir seus quadrados. 
 
-
 2. Dado um número natural na base decimal, transformá-lo para a base binária.
-Exemplo: Dado 18 a saída deverá ser 10010. 
+
+3. Dado um número natural na base binária, transformá-lo para a base decimal.
 
 
 Com o tempo vou acrescentando.
